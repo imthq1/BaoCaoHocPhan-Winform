@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "QuizzEduDatabase": "Server=(local);Database=QuizzEdu;Trusted_Connection=True;TrustServerCertificate=True"
+  }
+}
